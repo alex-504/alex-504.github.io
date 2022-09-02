@@ -2,3 +2,6 @@
 Personal deployment of Github Pages using Jekyll
 
 - Created github pages with Jekyll
+
+- FAQ test
+-- New answer
